@@ -1,0 +1,19 @@
+{
+  "name": "js-dev-env",
+  "version": "1.0.0",
+  "description": "Javascript Development Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveyu1975/js-dev-env.git"
+  },
+  "author": "David Urquhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveyu1975/js-dev-env/issues"
+  },
+  "homepage": "https://github.com/daveyu1975/js-dev-env#readme"
+}
